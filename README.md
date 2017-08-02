@@ -3,9 +3,7 @@ Kevin Poon
 
 Tic Tac Toe Kata
 
-Goal
-
-Create a program to track a game of TicTacToe between two human players.
+Goal: Create a program to track a game of TicTacToe between two human players.
 
 Requirements
 
@@ -46,6 +44,7 @@ If at any point an invalid move occurs, the program will change the game state t
 "Error" and further moves are disallowed. 
 
 Invalid moves include:
+
 	- Index out of range
 	- taking a tile that is not blank
 	- exceeding 9 total game moves

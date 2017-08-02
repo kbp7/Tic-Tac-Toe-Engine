@@ -1,0 +1,9 @@
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\obj\Debug\TicTacToeTest.csprojResolveAssemblyReference.cache
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\TicTacToeTest.dll
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\TicTacToeTest.pdb
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\ConsoleApplication2.dll
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\ConsoleApplication2.pdb
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\obj\Debug\TicTacToeTest.dll
+C:\Users\kp86251\Documents\Visual Studio 2015\Projects\ConsoleApplication2\TicTacToeTest\obj\Debug\TicTacToeTest.pdb
